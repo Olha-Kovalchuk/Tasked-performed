@@ -1,0 +1,91 @@
+product_id,product_name,price,manufacturer
+1000,Robot Vacuum Cleaner,10000,"Parisian, Jacobs and Beer"
+1061,Inflatable Stand Up Paddle Board,10000,"MacGyver, Cremin and Koelpin"
+1039,Scented Bath Bombs Set,800,Armstrong Inc
+1040,Mens Casual Shirt,800,Mann-Kilback
+1046,Beard Grooming Kit,800,"Balistreri, Aufderhar and Watsica"
+1052,Yoga Mat with Carrying Strap,800,Ferry-Davis
+1072,Classic Chess Set,800,"Crist, Heaney and Witting"
+1032,Diamond Stud Earrings,20000,Grimes-Weimann
+1087,4K LED Smart TV 55,20000,Flatley-Witting
+1008,Kids Graphic Tee,300,"Bernhard, Brakus and DuBuque"
+1066,Organic Body Wash,300,"Sipes, Nienow and Sauer"
+1010,Tablet 10 64GB,8000,"Connelly, Schmidt and Prohaska"
+1051,Virtual Reality Headset,8000,"Bahringer, O'Kon and Zemlak"
+1022,Argan Oil Hair Treatment,600,Klocko Inc
+1047,Insulated Water Bottle,600,Little-Kulas
+1064,Sunscreen SPF 50+,600,Feil and Sons
+1080,Reflective Running Vest,600,Towne LLC
+1054,Video Gaming Chair,7000,"Trantow, Beier and Effertz"
+1031,Golf Rangefinder,6000,Bashirian and Sons
+1050,Home Theater Soundbar,6000,Gutkowski Group
+1029,Mens Chronograph Watch,5000,Labadie Group
+1030,Ergonomic Office Chair,5000,
+1035,Portable External SSD 1TB,5000,Leannon and Sons
+1079,Outdoor Swing Set,5000,
+1013,Nonstick Silicone Baking Mat,400,"Lakin, Conn and Larkin"
+1034,Waterproof Mascara,400,Krajcik and Sons
+1043,Cold Press Juicer,4500,"Hoppe, Heaney and King"
+1060,Stainless Steel Cookware Set,4500,"Ryan, Howell and Rice"
+1068,Action Camera 4K Waterproof,4500,"Greenholt, Larkin and Dietrich"
+1011,Drone with HD Camera,15000,"MacGyver, Gibson and Ledner"
+1059,Smartphone 128GB,15000,Larson-Renner
+1069,Designer Sunglasses,4000,Lang-Wunsch
+1073,Smartwatch Fitness Tracker,4000,"Paucek, Wolff and Herzog"
+1076,Camping Tent for 4,4000,"Bayer, Ratke and Schroeder"
+1067,DSLR Camera Lens Kit,25000,Cole and Sons
+1053,Bluetooth Headphones,3500,Hamill-Hane
+1088,Insulated Winter Jacket,3500,"Reichert, Funk and Erdman"
+1002,Remote Control Race Car,1200,"Pouros, Wunsch and Watsica"
+1025,Leather Wallet,1200,Hegmann-Greenholt
+1028,Science Experiment Kit,1200,"Cole, McLaughlin and Kohler"
+1036,Memory Foam Pillow,1200,"Fahey, Durgan and Hilll"
+1041,Hydrating Facial Serum,1200,Torphy Inc
+1044,Teeth Whitening Kit,1200,
+1056,Insulated French Press Coffee Maker,1200,Koepp LLC
+1074,Full Face Snorkel Mask,1200,Connelly-Goodwin
+1084,Unisex Hoodie,1200,
+1086,USB-C Fast Charging Dock,1200,
+1017,Dollhouse with Furniture,3000,Mueller LLC
+1018,Noise-Cancelling Earbuds,3000,Cassin Inc
+1021,Climbing Harness Kit,3000,Mann-Rau
+1057,Waterproof Hiking Boots,3000,"Lehner, Osinski and Kling"
+1001,Silk Scarf,700,"Keeling, Fritsch and Mohr"
+1003,Lightweight Running Shoes,2500,"Kozey, Hartmann and Medhurst"
+1014,Fishing Rod and Reel Combo,2500,"Kunze, Muller and Schaefer"
+1062,Vegan Leather Handbag,2500,McGlynn-Kirlin
+1083,Modern Wall Art Canvas,2500,Ebert and Sons
+1033,Fitness Jump Rope,200,"Stamm, Littel and Rau"
+1020,Gaming Laptop 17 i7,45000,
+1005,Breathable Mesh Sneakers,2000,"Fisher, Wisoky and Boyle"
+1055,Action Figure Collection,2000,"Will, Tromp and Smith"
+1081,Handheld Game Console,2000,Leffler and Sons
+1085,Neoprene Dumbbell Set,2000,"Schneider, Lynch and Harvey"
+1089,Designer Table Lamp,2000,Cummings Inc
+1006,Wireless Keyboard and Mouse Combo,1500,"Erdman, Langworth and Quigley"
+1009,Ski Goggles Anti-fog,1500,"Wintheiser, Veum and Abshire"
+1012,Indoor Herb Garden Kit,1500,
+1015,STEM Learning Kit,1500,Langosh-Bode
+1038,Aromatherapy Essential Oil Diffuser,1500,Gerhold LLC
+1049,Handheld Garment Steamer,1500,"Hintz, Schulist and Kshlerin"
+1063,Mini Drone for Kids,1500,Littel-Wilkinson
+1065,Skin Cleansing Brush,1500,Hayes-Schroeder
+1071,Anti-Aging Night Cream,1500,Kuphal-Mosciski
+1075,Childrens Book Assortment,1500,
+1077,Egyptian Cotton Towel Set,1500,Effertz-DuBuque
+1007,Mountain Bicycle,12000,"Gislason, Weber and Morissette"
+1037,Electric Scooter,12000,"Kuphal, Rohan and Emmerich"
+1019,Womens Denim Jeans,1000,Stokes-Kemmer
+1023,Eco-friendly Yoga Mat,1000,White Inc
+1024,Art and Craft Supplies,1000,
+1026,Interactive Plush Toy,1000,Turcotte-Stark
+1042,Mens Shaving Set,1000,Zulauf and Sons
+1058,Folding Pocket Knife,1000,Wiegand-Hegmann
+1070,Microfiber Duvet Cover,1000,"O'Reilly, Bayer and Auer"
+1082,Strategy Board Game,1000,"Wolff, Feeney and Osinski"
+1004,Vegan Lipstick Shades,500,Pagac and Sons
+1027,Exfoliating Body Scrub,500,Runolfsson Inc
+1045,Wooden Puzzle Set,500,Towne and Sons
+1048,Acne Spot Treatment,500,Bechtelar and Sons
+1078,Bamboo Cutting Board,500,Larson Group
+1016,Natural Deodorant,250,Donnelly Inc
